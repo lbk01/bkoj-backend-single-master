@@ -19,17 +19,17 @@
 
 # Cat Online Judge
 
-> 作者：[猫十二懿](https://github.com/kongbk)
+> 作者：[bk](https://github.com/lbk01)
 
 ## 项目介绍
 
-本项目是基于 Spring Boot + Spring Cloud Alibaba 微服务 + Docker + RabbitMQ + Vue 3 的 **编程算法题目在线评测系统**
+本项目是基于 Spring Boot  + Docker + RabbitMQ + Vue 3 的 **编程算法题目在线评测系统**
 （简称OJ）。
 
-在线访问：http://oj.kongbk.top/
+在线访问：http://124.71.140.61:888/
 > 源项目来自编程导航（https://yupi.icu）
 
-Cat OJ（Cat Online Judge）系统是一个在线算法评测系统，用户可以选择题目、编写代码并提交代码进行评测，而且是高效、稳定的 OJ
+Bk OJ（Cat Online Judge）系统是一个在线算法评测系统，用户可以选择题目、编写代码并提交代码进行评测，而且是高效、稳定的 OJ
 在线判题评测系统，它能够根据用户提交的代码、出题人预先设置的题目输入和输出用例，进行编译代码、运行代码、判断代码运行结果是否正确。
 
 ## 项目功能 🎊
@@ -125,31 +125,14 @@ Cat OJ（Cat Online Judge）系统是一个在线算法评测系统，用户可�
 3. Spring Boot 调试工具和项目处理器
 4. Spring AOP 切面编程
 5. Spring 事务注解
-6. Spring Cloud Alibaba
-7. Spring Gateway
-8. MyBatis + MyBatis Plus 数据访问（开启分页）
-9. MyBatis-Plus 数据库访问结构
-10. Redis：分布式存储用户信息
-11. Redisson：限流控制
-12. JWT Token：用户鉴权
-13. RabbitMQ：消息队列
-14. Docker 代码沙箱，实现隔离环境运行Java程序
-15. Java安全管理器：保护 JVM、Java 安全的机制，实现对资源的操作限制
-16. Nacos：服务注册管理中心
-17. OpenFeign：微服务模块之间调用
-
-### 前端
-
-1. Vue 3
-2. Vue Router: 路由管理
-3. Vue-Cli 脚手架
-4. Axios: HTTP客户端
-5. Bytemd: Markdown 编辑器
-6. Monaco Editor: 代码编辑器
-7. highlight.js: 语法高亮
-8. Moment.js: 日期处理库
-9. Arco Design Vue: UI组件库
-10. TypeScript: 静态类型系统
+6. MyBatis + MyBatis Plus 数据访问（开启分页）
+7. MyBatis-Plus 数据库访问结构
+8. Redis：分布式存储用户信息
+9. Redisson：限流控制
+10. JWT Token：用户鉴权
+11. RabbitMQ：消息队列
+12. Docker 代码沙箱，实现隔离环境运行Java程序
+13. Java安全管理器：保护 JVM、Java 安全的机制，实现对资源的操作限制
 
 ### 数据存储
 
