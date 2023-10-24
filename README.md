@@ -17,7 +17,7 @@
 </a>
 </p>
 
-# Cat Online Judge
+# Bk Online Judge
 
 > 作者：[bk](https://github.com/lbk01)
 
