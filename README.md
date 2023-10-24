@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://github.com/kongbk/bkbi-backend/assets/94662685/9d677ecc-6e12-4ab1-b182-e3102d33a9d5" alt="image-20230623213937364" style="zoom:50%;" align="center" />
-</p>
 
 <p align="center">
 <a>
